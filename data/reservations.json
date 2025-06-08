@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1c98bb5c-dd4c-4bf3-9387-b7c26261aeb6",
+    "user": "juan",
+    "room": 4,
+    "date": "17/12/2025",
+    "hourStart": "10:30",
+    "hourEnd": "19:30",
+    "persons": 5
+  },
+  {
+    "id": "de6c1553-fdb3-422b-bbbc-8d418b48bd0c",
+    "user": "juan",
+    "room": 4,
+    "date": "20/12/2025",
+    "hourStart": "10:30",
+    "hourEnd": "19:30",
+    "persons": 5
+  },
+  {
+    "id": "02659a1b-0255-432c-a6fc-959f4033513c",
+    "user": "juan",
+    "room": 4,
+    "date": "27/12/2025",
+    "hourStart": "10:30",
+    "hourEnd": "19:30",
+    "persons": 5
+  },
+  {
+    "id": "461e72d7-1346-495d-9e1b-918d428fcc4c",
+    "user": "juan",
+    "room": 4,
+    "date": "30/12/2025",
+    "hourStart": "10:30",
+    "hourEnd": "19:30",
+    "persons": 5
+  }
+]

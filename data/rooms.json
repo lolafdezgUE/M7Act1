@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Sala Madrid",
+    "maxCapacity": 20
+  },
+  {
+    "id": 2,
+    "name": "Sala Barcelona",
+    "maxCapacity": 15
+  },
+  {
+    "id": 3,
+    "name": "Sala Sevilla",
+    "maxCapacity": 10
+  },
+  {
+    "id": 4,
+    "name": "Sala Valencia",
+    "maxCapacity": 25
+  },
+  {
+    "id": 5,
+    "name": "Sala Bilbao",
+    "maxCapacity": 12
+  },
+  {
+    "id": 6,
+    "name": "Sala Granada",
+    "maxCapacity": 8
+  },
+  {
+    "id": 7,
+    "name": "Sala Málaga",
+    "maxCapacity": 18
+  },
+  {
+    "id": 8,
+    "name": "Sala Zaragoza",
+    "maxCapacity": 14
+  },
+  {
+    "id": 9,
+    "name": "Sala Salamanca",
+    "maxCapacity": 16
+  },
+  {
+    "id": 10,
+    "name": "Sala Alicante",
+    "maxCapacity": 22
+  }
+]

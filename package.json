@@ -1,0 +1,11 @@
+{
+    "name" : "practica_1",
+    "version" : "1.0.0",
+    "type" : "module",
+    "description" : "Practica 1 del módulo 7",
+    "main" : "index.js",
+    "scripts" : {
+        "start" : "node index.js"
+    }
+
+}
